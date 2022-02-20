@@ -1,4 +1,5 @@
-![87FE0D02-1C45-4129-A243-A5403E1F29E5](https://user-images.githubusercontent.com/99525808/154867348-82cc8521-27d5-4990-9a8c-27c4414eb8ed.jpeg)
+![35082901-EA68-434D-AA9E-6974A68E9E74](https://user-images.githubusercontent.com/99525808/154867418-35a6e17a-fca9-4d4e-b7ff-4fc277ad29bc.jpeg)
+
 
 
 ## Hi Jonathan here 👋🏻
