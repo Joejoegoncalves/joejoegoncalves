@@ -1,4 +1,5 @@
-<img width="426" alt="FBDB4BB3-9F03-4FD5-BB71-EEF64089654F" src="https://user-images.githubusercontent.com/99525808/154864494-b84c073d-6279-435c-a1ab-4cb13520d438.png">
+![87FE0D02-1C45-4129-A243-A5403E1F29E5](https://user-images.githubusercontent.com/99525808/154867348-82cc8521-27d5-4990-9a8c-27c4414eb8ed.jpeg)
+
 
 ## Hi Jonathan here 👋🏻
 
