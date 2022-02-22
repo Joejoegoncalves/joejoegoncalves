@@ -18,3 +18,4 @@
 </div>
 
 ![1A925ABB-E00C-41E6-B555-7C977362A6D5](https://user-images.githubusercontent.com/99525808/154869237-c8ea4709-6a75-4bfb-969e-64ebfeb57292.gif) 
+![Snake animation](https://github.com/joejoegoncalves/joejoegoncalves/blob/output/github-contribution-grid-snake.svg)
