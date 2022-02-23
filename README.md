@@ -15,8 +15,11 @@
 
 <a href="https://instagram.com/joejoegoncalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jonathangoncalves4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://https://www.linkedin.com/in/jonathan-goncalves-9044b3198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://https://www.linkedin.com/in/jonathan-goncalves-9044b3198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/99525808/155240239-08013c9d-24b1-4634-885b-78e5c50eeece.gif)
+
+  
+  
 </div>
 
-![1A925ABB-E00C-41E6-B555-7C977362A6D5](https://user-images.githubusercontent.com/99525808/154869237-c8ea4709-6a75-4bfb-969e-64ebfeb57292.gif) 
+
 ![Snake animation](https://github.com/joejoegoncalves/joejoegoncalves/blob/output/github-contribution-grid-snake.svg)
